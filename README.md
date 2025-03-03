@@ -1,1 +1,1 @@
-E-Commerce Project
+Amazon E-Commerce Automation Project
